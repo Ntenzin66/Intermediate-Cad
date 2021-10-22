@@ -26,8 +26,7 @@ https://cvilleschools.onshape.com/documents/d6a533215997c973d3be8c90/w/1cfb1bca4
 
 ## Reflection 
 
-I learned how to use the use function on my shapes that I extrude, learned how to make variables and modify them to my own needs, learned more about the revolve function, and learned many useful shortcuts that can limit the amount of time spent looking for specific tools. 
-
+I learned how to use the use function on my shapes that I extrude, learned how to make variables and modify them to my own needs, learned more about the revolve function, and learned many useful shortcuts that can limit the amount of time spent looking for specific tools. I slowly learned how to use each new thing that was presented to us and I can incoporate it into my future CAD assignments. These skills will be very useful in my future with CAD. 
 
 
 
