@@ -1,28 +1,26 @@
 # Intermediate-Cad
 
 
-## Skateboard
-
 ## Description
 
-The somewhat assembled skateboard with the parts. The goals of the addignment were tocreat individual parts of a skateboard and then at the end assemble them together to make a full skateboard with the deck, trucks, and wheels. I started with the deck, then the trucks, and then finally the wheels. The parts themselves are pretty simple to follow as they have step-by-step directions on how to make them. It was very simple and easy to follow and I learned many thinbgs from it. 
+The goal of the assignment was to create a skateboard from a variety of parts and use a variety of shortcuts to my advantage. As I followed the steps for each individual part of the skateboard, I learned many new techniques and shortcuts. These shortcuts and techniques will be very useful in my future for my productivity. 
 
 [Link to my Onshape document](https://cvilleschools.onshape.com/documents/d6a533215997c973d3be8c90/w/1cfb1bca45e87a1b89ee9eee/e/9c098e49c930cd7f14f94482?renderMode=0&uiState=6172b5343927ac5d189c0a48)
-## Evidence
+
+## 2.1 Deck
+
+![Deck](https://user-images.githubusercontent.com/90460146/138897955-ae677d1d-79b2-4aeb-b433-30ae0f5a3eaf.png)
+
+You can use Shift+S as a shortcut to create a new sketch on any of the planes you desire. You can also use Shift+E and select any sketch and it will extrude it for you. 
+
+## 2.2 Trucks
+
+![Truck](https://user-images.githubusercontent.com/90460146/138901446-57d34c29-e2b9-476d-8a4e-123f4bb4b723.png)
+
+In this section I make use of the offset tool, which shortcut is O. 
 
 
 
-
-![Skateboard](https://user-images.githubusercontent.com/90460146/137741679-aa28b81d-b7ca-4e55-ae64-a2613fee2d03.png)
-
-
-![WheelsBearing](https://user-images.githubusercontent.com/90460146/137742054-86601813-3793-43a4-b6dc-cdc1b6b9032a.png)
-
-
-![Deck](https://user-images.githubusercontent.com/90460146/137742162-d67a6eab-0098-4b21-a5f3-2f128f78806a.png)
-
-
-![Truck](https://user-images.githubusercontent.com/90460146/138458521-0d1e1883-216b-489c-b585-97f41c93cfd7.png)
 
 
 
